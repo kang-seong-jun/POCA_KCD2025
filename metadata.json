@@ -1,0 +1,7 @@
+{
+  "name": "Personalized Oxygen Calibration Agent (POCA)",
+  "description": "A medical agent application that uses a camera to analyze patient skin tone and applies a personalized calibration to SpO2 readings, providing a more accurate estimated blood oxygen level.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
